@@ -19,7 +19,7 @@ A quadrotor simulation stack built on ROS 2 Jazzy and Gazebo Harmonic, featuring
 | **OS** | Ubuntu 24.04 (WSL2 supported) |
 | **ROS 2** | Jazzy Jalisco |
 | **Simulator** | Gazebo Harmonic (gz-sim) |
-| **Languages** | C++ 17, Python 3 |
+| **Languages** | C++, Python 3 |
 | **NMPC Solver** | Acados (SQP-RTI via HPIPM) |
 | **Math Library** | Eigen3 |
 | **Build System** | ament_cmake |
