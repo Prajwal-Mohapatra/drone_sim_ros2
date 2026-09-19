@@ -8,6 +8,8 @@ A quadrotor simulation stack built on ROS 2 Jazzy and Gazebo Harmonic, featuring
 
 > Inspired by [sjtu_drone](https://github.com/NovoG93/sjtu_drone), reimplemented from scratch for the modern ROS 2 + Gazebo Sim stack.
 
+![Drone hovering in Gazebo Harmonic](assets/1.png)
+
 ---
 
 ## Tech Stack
